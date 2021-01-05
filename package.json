@@ -10,7 +10,7 @@
   "author": "Philipp Gürtler",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "parcel-bundler": "^1.12.4"
   },
   "devDependencies": {
